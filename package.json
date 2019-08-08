@@ -1,0 +1,11 @@
+{
+  "name": "clockify-poster",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "node poster.js"
+  }
+}
